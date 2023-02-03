@@ -1,5 +1,7 @@
 package prop.bank;
 
+/*This is command */
+
 public class account {
 	long acc_no;
 	String acc_ho_nm;
